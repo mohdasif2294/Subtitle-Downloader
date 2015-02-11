@@ -1,7 +1,8 @@
 # Subtitle-Downloader
-One Click Subtitle Downloader using SubDB API for Movies and Series.
+Subtitle Downloader is a script to automate the downloading of the subtitle for any movie or series without the hassle of searching various websites before getting one synced subtitle.
+Just right click on your movie file and click on Download Subs. And Voila! It's done. So easy, right!!
 
-It uses SubDB API for downloading subtitles
+It is a python script which sends a GET request using urllib2 to SubDB API and stores the subtitle as srt file.
 
 More Info on How To install and Play with script will be updated soon.
 Mail me at mohdasif2294@gmail.com
